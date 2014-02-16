@@ -1,0 +1,9 @@
+#OSD directories to create
+osds:
+  1
+  2
+  3
+  4
+#Monitor directory to create
+mon:
+  a
